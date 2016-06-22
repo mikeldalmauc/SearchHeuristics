@@ -1,0 +1,58 @@
+\begin{thebibliography}{10}
+
+\bibitem{beni1988}
+G.~Beni.
+\newblock The concept of cellular robotic system.
+\newblock In {\em Proceedings of the IEEE International Symposium on
+  Intelligent Control}, pages 57--62, 1988.
+
+\bibitem{blum2008}
+C.~Blum and D.~Merkle.
+\newblock {\em Swarm Intelligence: Introduction and Applications}.
+\newblock Springer-Verlag, 2008.
+
+\bibitem{dorigo1996}
+M.~Dorigo, V.~Maniezzo, and A.~Colorni.
+\newblock Ant system: Optimization by a colony of cooperating agents.
+\newblock {\em Trans. Sys. Man Cyber. Part B}, 26(1):29--41, 1996.
+
+\bibitem{dorigo1992}
+Marco Dorigo.
+\newblock {\em Optimization, Learning and Natural Algorithms}.
+\newblock PhD thesis, Politecnico di Milano, 1992.
+
+\bibitem{gwiazda2006}
+T.D. Gwiazda.
+\newblock {\em Genetic algorithms reference Volume I Crossover for
+  single-objective numerical optimization problems}.
+\newblock Number v. 1. Lightning Source, 2006.
+
+\bibitem{holland1975}
+J.~H. Holland.
+\newblock {\em {Adaptation in Natural and Artificial Systems}}.
+\newblock University of Michigan Press, Ann Arbor, MI, USA, 1975.
+
+\bibitem{kennedy1995}
+J.~Kennedy and R.~C. Eberhart.
+\newblock Particle swarm optimization.
+\newblock In {\em Proceedings of the IEEE International Conference on Neural
+  Networks}, pages 1942--1948, 1995.
+
+\bibitem{larranaga2002}
+P.~Larra{\~n}aga and J.~A. Lozano.
+\newblock {\em Estimation of Distribution Algorithms: {A} New Tool for
+  Evolutionary Computation}.
+\newblock Kluwer Academic Publishers, 2002.
+
+\bibitem{lozano2006}
+Jose~A. Lozano, Pedro Larra{\~n}aga, I{\~n}aki Inza, and Endika Bengoetxea.
+\newblock {\em Towards a New Evolutionary Computation: Advances on Estimation
+  of Distribution Algorithms (Studies in Fuzziness and Soft Computing)}.
+\newblock Springer-Verlag New York, Inc., 2006.
+
+\bibitem{talbi2009}
+El-Ghazali Talbi.
+\newblock {\em Metaheuristics: From Design to Implementation}.
+\newblock Wiley Publishing, 2009.
+
+\end{thebibliography}
